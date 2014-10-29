@@ -14,7 +14,7 @@ Interests
 
 Work Experience
 ---------------
-*   ####[Yandex](http://company.yandex.com/)  
+*   [__Yandex__](http://company.yandex.com/)  
 
     Deputy Head of Service, 02.2014 - present  
     Senior Software Engineer, 06.2011 - 02.2014  
@@ -27,7 +27,7 @@ Work Experience
     _Base Technologies Used: C++(60%), C(30%), Perl(5%), Python(5%), gdb, valgrind, Linux, debian packages, MySQL, SVN, Git, JIRA_  
 
 
-*   ####[EGAR Technology](http://www.egartech.com/company_sum.asp)  
+*   [__EGAR Technology__](http://www.egartech.com/company_sum.asp)  
     
     Software Engineer, 03.2007 - 02.2008
 
@@ -36,7 +36,7 @@ Work Experience
     
     _Base Technologies Used: Visual Basic, T-SQL, MS SQL Server, SourceSafe, DevTrack, C#_  
 
-*   ####[CBOSS](http://www.cboss.ru/about/profile.html?locale=en)  
+*   [__CBOSS__](http://www.cboss.ru/about/profile.html?locale=en)  
 
     Software engineer in test, 09.2006 - 03.2007
 
@@ -56,7 +56,7 @@ Education
 ---------
 *   [Moscow Power Engineering Institute (Technical University)](http://www.mpei.ru/StartPage.asp)  Institute of automatics and computer engineering Department of Computers, Computer Systems and Networks, 2003-2009, _BS's (2007), Engineer's(2009) degree_
 
-####Additional Online Courses
+#### Additional Online Courses
 *   Stanford online course “Algorithms: Design and Analysis” Part 1 and Part 2, 2012-2013
 *   Vanderbilt University Pattern-Oriented Software Architectures for Concurrent and Networked Mobile Devices and Clouds, 2013
 *   Princeton University online course “Algorithms” Part 1 and Part 2, 2013-2014
