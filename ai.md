@@ -8,9 +8,9 @@ Skype:			pervushinai
 
 Interests
 ---------
-*   Develop distributed fault-tolerant applications which must works 24/7 under high load  
-*   Every day learn something new  
-*   New big challenges, related with a huge amount of data, which my applications need to process and hundreds of thousands servers, which my applications have to connect  
+*   Developing distributed fault-tolerant applications which must works 24/7 under high load  
+*   Learning something every new day  
+*   Facing with new big challenges, related with a huge amount of data, which my applications need to process and hundreds of thousands servers, which my applications have to connect  
 
 Work Experience
 ---------------
@@ -46,18 +46,19 @@ Work Experience
 
 Skills
 ------
-*   Big experience in languages C, C++(stl, boost)
+*   Extensive experience in languages C, C++(stl, boost)
 *   Have experience in Assembler, MySQL, Linux, Perl, Python, Jave, svn, git
 *   Familiar with GNU Make, bash, debian packages
 *   Huge experience in programming robust client-server architecture applications works 7x24
-*   Big experience in multi-thread and network programming
+*   Deep experience in multi-thread and network programming
 
 Education
 ---------
 *   [Moscow Power Engineering Institute (Technical University)](http://www.mpei.ru/StartPage.asp)  Institute of automatics and computer engineering Department of Computers, Computer Systems and Networks, 2003-2009, _BS's (2007), Engineer's(2009) degree_
 
 #### Additional Online Courses
-*   Stanford online course “Algorithms: Design and Analysis” Part 1 and Part 2, 2012-2013
+*   Stanford online course "Algorithms: Design and Analysis" Part 1 and Part 2, 2012-2013
 *   Vanderbilt University Pattern-Oriented Software Architectures for Concurrent and Networked Mobile Devices and Clouds, 2013
-*   Princeton University online course “Algorithms” Part 1 and Part 2, 2013-2014
-*    Stanford online course “Compilers”, 2014
+*   Princeton University online course "Algorithms" Part 1 and Part 2, 2013-2014
+*    Stanford online course "Compilers", 2014
+*    Online cource "Functional Programming Principles in Scala", 2014
