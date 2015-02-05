@@ -14,9 +14,16 @@ Interests
 
 Work Experience
 ---------------
+*   [__Bright Computing__](http://www.brightcomputing.com/)
+    
+    Software Engineer, 12.2014 - present  
+    
+    -   Implement ipv6 support
+
+    _Base Technologies Used: C++(80%), Python(10%), gdb, valgrind, Linux, SVN, JIRA_
 *   [__Yandex__](http://company.yandex.com/)  
 
-    Deputy Head of Service, 02.2014 - present  
+    Deputy Head of Service, 02.2014 - 12.2014  
     Senior Software Engineer, 06.2011 - 02.2014  
     Software Engineer, 02.2008 - 06.2011  
 
