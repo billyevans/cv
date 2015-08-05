@@ -18,7 +18,8 @@ Work Experience
     
     Software Engineer, 12.2014 - present  
     
-    -   Implement ipv6 support
+    -   Develop core parts of cluster managment tool
+    -   Implement ipv6 support for cluster managment tool
 
     _Base Technologies Used: C++(80%), Python(10%), gdb, valgrind, Linux, SVN, JIRA_
 *   [__Yandex__](http://company.yandex.com/)  
@@ -64,8 +65,9 @@ Education
 *   [Moscow Power Engineering Institute (Technical University)](http://www.mpei.ru/StartPage.asp)  Institute of automatics and computer engineering Department of Computers, Computer Systems and Networks, 2003-2009, _BS's (2007), Engineer's(2009) degree_
 
 #### Additional Online Courses
-*   Stanford online course "Algorithms: Design and Analysis" Part 1 and Part 2, 2012-2013
-*   Vanderbilt University Pattern-Oriented Software Architectures for Concurrent and Networked Mobile Devices and Clouds, 2013
+*   Stanford online course "Machine Learning", 2015
+*   Online cource "Functional Programming Principles in Scala", 2014
+*   Stanford online course "Compilers", 2014
 *   Princeton University online course "Algorithms" Part 1 and Part 2, 2013-2014
-*    Stanford online course "Compilers", 2014
-*    Online cource "Functional Programming Principles in Scala", 2014
+*   Vanderbilt University Pattern-Oriented Software Architectures for Concurrent and Networked Mobile Devices and Clouds, 2013
+*   Stanford online course "Algorithms: Design and Analysis" Part 1 and Part 2, 2012-2013
