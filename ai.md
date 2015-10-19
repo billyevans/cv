@@ -18,7 +18,7 @@ Work Experience
     
     Software Engineer, 10.2015 - present
     
-    -   Develop core parts of distributed infrastracture
+    -   Develop core parts of distributed infrastracture_
 
  *   [__Bright Computing__](http://www.brightcomputing.com/)
     
