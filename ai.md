@@ -16,9 +16,9 @@ Work Experience
 ---------------
 *   [__Yelp__](http://www.yelp.com/about/)
 
-    Software Engineer, 10.2015 - present
+    Software Engineer, 10.2015 - present  
 
-    -   Develop core parts of distributed infrastructure
+    -   Develop core parts of distributed infrastructure  
 
 
  *   [__Bright Computing__](http://www.brightcomputing.com/)
