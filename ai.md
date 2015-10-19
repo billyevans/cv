@@ -15,15 +15,16 @@ Interests
 Work Experience
 ---------------
 *   [__Yelp__](http://www.yelp.com/about/)
-    
+
     Software Engineer, 10.2015 - present
-    
-    -   Develop core parts of distributed infrastracture_
+
+    -   Develop core parts of distributed infrastructure
+
 
  *   [__Bright Computing__](http://www.brightcomputing.com/)
-    
+
     Software Engineer, 12.2014 - 10.2015
-    
+
     -   Develop core parts of cluster management tool
     -   Implement ipv6 support for cluster managment tool
 
@@ -38,17 +39,17 @@ Work Experience
     -   Design and develop robust transport system using peer to peer technology with datacenter orientation  
     -   Architect and develop highly load in memory storage with delayed data-sync, run-time compiler and master-slave replication  
     -   Develop, deploy and support distributed systems for Yandex's ad's system. Such as peer-to-peer transport, in-memory storage, ad's showing engine, real-time anti fraud system, event-queue  
-    
+
     _Base Technologies Used: C++(60%), C(30%), Perl(5%), Python(5%), gdb, valgrind, Linux, debian packages, MySQL, SVN, Git, JIRA_  
 
 
 *   [__EGAR Technology__](http://www.egartech.com/company_sum.asp)  
-    
+
     Software Engineer, 03.2007 - 02.2008
 
     -   Developed Focus bank-system  
     -   Ported big bank-system from Visual Basic to C#  
-    
+
     _Base Technologies Used: Visual Basic, T-SQL, MS SQL Server, SourceSafe, DevTrack, C#_  
 
 *   [__CBOSS__](http://www.cboss.ru/about/profile.html?locale=en)  
@@ -56,7 +57,7 @@ Work Experience
     Software engineer in test, 09.2006 - 03.2007
 
     -   Module testing CBOSS generator of bills system  
-    
+
     _Base Technologies Used: PL/SQL, Oracle_  
 
 Skills
