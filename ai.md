@@ -14,14 +14,21 @@ Interests
 
 Work Experience
 ---------------
-*   [__Bright Computing__](http://www.brightcomputing.com/)
+*   [__Yelp__](http://www.yelp.com/about/)
     
-    Software Engineer, 12.2014 - present  
+    Software Engineer, 10.2015 - present
     
-    -   Develop core parts of cluster managment tool
+    -   Develop core parts of distributed infrastracture
+
+ *   [__Bright Computing__](http://www.brightcomputing.com/)
+    
+    Software Engineer, 12.2014 - 10.2015
+    
+    -   Develop core parts of cluster management tool
     -   Implement ipv6 support for cluster managment tool
 
     _Base Technologies Used: C++(80%), Python(10%), gdb, valgrind, Linux, SVN, JIRA_
+
 *   [__Yandex__](http://company.yandex.com/)  
 
     Deputy Head of Service, 02.2014 - 12.2014  
