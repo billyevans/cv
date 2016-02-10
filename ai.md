@@ -1,10 +1,10 @@
 Personal Details
 ----------------
 Name:           Pervushin Alexey  
-Address:		26-29 Malisheva St., Moscow, Russia, 109263  
-Phone: 			+7 916 7270381  
-Mail:			pervushinai@gmail.com  
-Skype:			pervushinai
+Address:        Flat 28 Churchill Lodge, 346 Streatham High Road, London, United Kingdom, SW16 6HD  
+Phone:          +44 7543 638016  
+Mail:           pervushinai@gmail.com  
+Skype:          pervushinai  
 
 Interests
 ---------
@@ -14,21 +14,22 @@ Interests
 
 Work Experience
 ---------------
-*   [__Yelp__](http://www.yelp.com/about/)
+*   [__Yelp__](http://www.yelp.com/about/)  
 
     Software Engineer, 10.2015 - present  
 
     -   Develop core parts of distributed infrastructure  
 
+    _Base Technologies Used: Python(50%), Java(30%), Linux, debian packages, AWS, Docker, Git, JIRA_  
 
- *   [__Bright Computing__](http://www.brightcomputing.com/)
+*   [__Bright Computing__](http://www.brightcomputing.com/)  
 
-    Software Engineer, 12.2014 - 10.2015
+    Software Engineer, 12.2014 - 10.2015  
 
-    -   Develop core parts of cluster management tool
-    -   Implement ipv6 support for cluster managment tool
+    -   Develop core parts of cluster management tool  
+    -   Implement ipv6 support for cluster management tool  
 
-    _Base Technologies Used: C++(80%), Python(10%), gdb, valgrind, Linux, SVN, JIRA_
+    _Base Technologies Used: C++(80%), Python(10%), gdb, valgrind, Linux, SVN, JIRA_  
 
 *   [__Yandex__](http://company.yandex.com/)  
 
@@ -63,7 +64,7 @@ Work Experience
 Skills
 ------
 *   Extensive experience in languages C, C++(stl, boost)
-*   Have experience in Assembler, MySQL, Linux, Perl, Python, Jave, svn, git
+*   Have experience in Assembler, MySQL, Linux, Perl, Python, Java, svn, git
 *   Familiar with GNU Make, bash, debian packages
 *   Huge experience in programming robust client-server architecture applications works 7x24
 *   Deep experience in multi-thread and network programming
@@ -74,7 +75,7 @@ Education
 
 #### Additional Online Courses
 *   Stanford online course "Machine Learning", 2015
-*   Online cource "Functional Programming Principles in Scala", 2014
+*   Online course "Functional Programming Principles in Scala", 2014
 *   Stanford online course "Compilers", 2014
 *   Princeton University online course "Algorithms" Part 1 and Part 2, 2013-2014
 *   Vanderbilt University Pattern-Oriented Software Architectures for Concurrent and Networked Mobile Devices and Clouds, 2013
