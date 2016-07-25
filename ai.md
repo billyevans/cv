@@ -1,8 +1,7 @@
 Personal Details
 ----------------
 Name:           Pervushin Alexey  
-Address:        Flat 28 Churchill Lodge, 346 Streatham High Road, London, United Kingdom, SW16 6HD  
-Phone:          +44 7543 638016  
+Address:        London, United Kingdom  
 Mail:           pervushinai@gmail.com  
 Skype:          pervushinai  
 
