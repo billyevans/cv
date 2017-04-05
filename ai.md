@@ -1,9 +1,8 @@
 Personal Details
 ----------------
 Name:           Pervushin Alexey  
-Address:        London, United Kingdom  
+Address:        San Francisco, USA  
 Mail:           pervushinai@gmail.com  
-Skype:          pervushinai  
 
 Interests
 ---------
@@ -73,7 +72,8 @@ Education
 *   [Moscow Power Engineering Institute (Technical University)](http://www.mpei.ru/StartPage.asp)  Institute of automatics and computer engineering Department of Computers, Computer Systems and Networks, 2003-2009, _BS's (2007), Engineer's(2009) degree_
 
 #### Additional Online Courses
-*   The Ohio State University "Calculus One" and "Calculus Two: Sequences and Series" 2015-2016
+*   Stanford University & The University of British Columbia "Game Theory", 2016
+*   The Ohio State University "Calculus One" and "Calculus Two: Sequences and Series", 2015-2016
 *   Stanford online course "Machine Learning", 2015
 *   Online course "Functional Programming Principles in Scala", 2014
 *   Stanford online course "Compilers", 2014
