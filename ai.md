@@ -6,9 +6,9 @@ Mail:           pervushinai@gmail.com
 
 Interests
 ---------
-*   Developing distributed fault-tolerant applications which must works 24/7 under high load  
-*   Learning something every new day  
-*   Facing with new big challenges, related with a huge amount of data, which my applications need to process and hundreds of thousands servers, which my applications have to connect  
+*   Developing distributed fault-tolerant applications which must work 24/7 under high load  
+*   Learning something new every day  
+*   Facing with a new big challenges, related with a huge amount of data, which my applications need to process and hundreds of thousands servers, which my applications have to connect  
 
 Work Experience
 ---------------
@@ -17,8 +17,10 @@ Work Experience
     Software Engineer, 10.2015 - present  
 
     -   Develop core parts of distributed infrastructure  
+    -   Lead a project of automation lifecycle management of Kafka brokers  
+    -   Lead a project with a new way of streams and Kafka clusters discovery  
 
-    _Base Technologies Used: Python(50%), Java(30%), Linux, debian packages, AWS, Docker, Git, JIRA_  
+    _Base Technologies Used: Python(50%), Java(30%), Linux, Kafka, debian packages, AWS, Docker, Git, JIRA_  
 
 *   [__Bright Computing__](http://www.brightcomputing.com/)  
 
@@ -72,6 +74,9 @@ Education
 *   [Moscow Power Engineering Institute (Technical University)](http://www.mpei.ru/StartPage.asp)  Institute of automatics and computer engineering Department of Computers, Computer Systems and Networks, 2003-2009, _BS's (2007), Engineer's(2009) degree_
 
 #### Additional Online Courses
+
+*   University of Illinois at Urbana-Champaign "Cloud Networking", 2018
+*   Princeton University "Bitcoin and Cryptocurrency Technologies", 2017
 *   Stanford University & The University of British Columbia "Game Theory", 2016
 *   The Ohio State University "Calculus One" and "Calculus Two: Sequences and Series", 2015-2016
 *   Stanford online course "Machine Learning", 2015
