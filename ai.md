@@ -1,30 +1,40 @@
 Personal Details
 ----------------
 Name:           Pervushin Alexey  
-Address:        San Francisco, USA  
+Address:        Pacifica/Bay Area, USA  
 Mail:           pervushinai@gmail.com  
 
 Interests
 ---------
 *   Developing distributed fault-tolerant applications which must work 24/7 under high load  
 *   Learning something new every day  
-*   Facing with a new big challenges, related with a huge amount of data, which my applications need to process and hundreds of thousands servers, which my applications have to connect  
+*   Facing with a new big challenges, related to huge amounts of data, which applications maintained by me need to process in addition to that hundreds of thousands servers and clients, which my applications have to communicate  
 
 Work Experience
 ---------------
+*   [__Tesla__](https://www.tesla.com/about)  
+
+    Staff Software Engineer, 2019-08 to present  
+
+    -   Spearheaded a pivotal role in a high-impact project focused on data segregation and stack separation, spanning three global regions. This strategic initiative resulted in significantly reduced latency for vehicle operations while ensuring strict adherence to local data locality regulations. In addition the project had hard deadline when company needs to obey the law.  
+    -   Led a mission-critical project involving the automation of vehicle certificates revocation and renewal process. This effort made Tesla car-computer stealing dark business make no sense.  
+    -   Collaborated seamlessly across multiple cross-functional teams to contribute to the development of the Vehicle's Electronic Control Unit (ECU) registry and digital signing project. This instrumental effort facilitated the establishment of a trusted communication channel between vehicles and their ECUs, enhancing overall vehicle security and componets safety.  
+
+    _Base Technologies Used: Ruby on Rails(40%), Go(30%), Linux, AWS, Kubernetes, Docker, Kafka, Mysql, MongoDB, Redis, RabbitMQ, Git, JIRA_  
+
 *   [__Yelp__](http://www.yelp.com/about/)  
 
-    Software Engineer, 10.2015 - present  
+    Software Engineer, 2015-10 to 2019-08  
 
     -   Develop core parts of distributed infrastructure  
     -   Lead a project of automation lifecycle management of Kafka brokers  
-    -   Lead a project with a new way of streams and Kafka clusters discovery  
+    -   Lead a project with a new way of data streams and Kafka clusters discovery  
 
     _Base Technologies Used: Python(50%), Java(30%), Linux, Kafka, debian packages, AWS, Docker, Git, JIRA_  
 
 *   [__Bright Computing__](http://www.brightcomputing.com/)  
 
-    Software Engineer, 12.2014 - 10.2015  
+    Software Engineer, 2014-10 to 2015-10  
 
     -   Develop core parts of cluster management tool  
     -   Implement ipv6 support for cluster management tool  
@@ -33,9 +43,9 @@ Work Experience
 
 *   [__Yandex__](http://company.yandex.com/)  
 
-    Deputy Head of Service, 02.2014 - 12.2014  
-    Senior Software Engineer, 06.2011 - 02.2014  
-    Software Engineer, 02.2008 - 06.2011  
+    Deputy Head of Service, 2014-02 to 2014-12  
+    Senior Software Engineer, 2011-06 to 2014-02  
+    Software Engineer, 2008-02 to 2011-06  
 
     -   Design and develop robust transport system using peer to peer technology with datacenter orientation  
     -   Architect and develop highly load in memory storage with delayed data-sync, run-time compiler and master-slave replication  
@@ -46,7 +56,7 @@ Work Experience
 
 *   [__EGAR Technology__](http://www.egartech.com/company_sum.asp)  
 
-    Software Engineer, 03.2007 - 02.2008
+    Software Engineer, 2007-03 to 2008-02  
 
     -   Developed Focus bank-system  
     -   Ported big bank-system from Visual Basic to C#  
@@ -55,7 +65,7 @@ Work Experience
 
 *   [__CBOSS__](http://www.cboss.ru/about/profile.html?locale=en)  
 
-    Software engineer in test, 09.2006 - 03.2007
+    Software engineer in test, 2006-09 to 2007-03  
 
     -   Module testing CBOSS generator of bills system  
 
@@ -63,8 +73,8 @@ Work Experience
 
 Skills
 ------
-*   Extensive experience in languages C, C++(stl, boost)
-*   Have experience in Assembler, MySQL, Linux, Perl, Python, Java, svn, git
+*   Extensive experience in languages Go, Python, Ruby, C, C++(stl, boost)
+*   Have experience in Assembler, MySQL, Kafka, Linux, Java, Perl, Rust, svn, git, docker, kubernetes, AWS, MongoDB
 *   Familiar with GNU Make, bash, debian packages
 *   Huge experience in programming robust client-server architecture applications works 7x24
 *   Deep experience in multi-thread and network programming
@@ -75,6 +85,7 @@ Education
 
 #### Additional Online Courses
 
+*   Stanford online course "Cryptography I", 2020
 *   University of Illinois at Urbana-Champaign "Cloud Networking", 2018
 *   Princeton University "Bitcoin and Cryptocurrency Technologies", 2017
 *   Stanford University & The University of British Columbia "Game Theory", 2016
